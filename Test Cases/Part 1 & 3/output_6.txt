@@ -1,0 +1,40 @@
+From Konitsa to Skamneli
+Uphill 1942, Downhill 1412
+Max altitude 2294, Min altitude -237
+Length 23397, Estimated time 554 min
+
+From Vrysoxori to Skamneli
+Uphill 1630, Downhill 1396
+Max altitude 2311, Min altitude -237
+Length 17914, Estimated time 439 min
+
+From Megalo Papigo to Monodendri
+Uphill 1001, Downhill 783
+Max altitude 1076, Min altitude 499
+Length 16262, Estimated time 350 min
+
+From Katafygio Astrakas to Gamilla II
+Uphill 891, Downhill 344
+Max altitude 2496, Min altitude 1774
+Length 6118, Estimated time 183 min
+
+From Mikro Papigo to Katafygio Astrakas
+Uphill 989, Downhill 42
+Max altitude 1928, Min altitude 977
+Length 5919, Estimated time 190 min
+
+From Elati to Gefyri Agiou Mina
+Uphill 115, Downhill 83
+Max altitude 1002, Min altitude 777
+Length 3300, Estimated time 62 min
+
+From Katafygio Astrakas to Drakolimni
+Uphill 295, Downhill 202
+Max altitude 2002, Min altitude 1745
+Length 2764, Estimated time 72 min
+
+From Katafygio Astrakas to Astraka
+Uphill 394, Downhill 9
+Max altitude 2443, Min altitude 1919
+Length 1311, Estimated time 60 min
+

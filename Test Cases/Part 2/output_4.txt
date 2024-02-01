@@ -1,0 +1,60 @@
+From Skamneli to Konitsa
+Uphill 1412, Downhill 1942
+Max altitude 2294, Min altitude -237
+Length 23397, Estimated time 501 min
+
+From Konitsa to Skamneli
+Uphill 1942, Downhill 1412
+Max altitude 2294, Min altitude -237
+Length 23397, Estimated time 554 min
+
+From Skamneli to Vrysoxori
+Uphill 1396, Downhill 1630
+Max altitude 2311, Min altitude -237
+Length 17914, Estimated time 415 min
+
+From Vrysoxori to Skamneli
+Uphill 1630, Downhill 1396
+Max altitude 2311, Min altitude -237
+Length 17914, Estimated time 439 min
+
+From Monodendri to Megalo Papigo
+Uphill 783, Downhill 1001
+Max altitude 1076, Min altitude 499
+Length 16262, Estimated time 328 min
+
+From Megalo Papigo to Monodendri
+Uphill 1001, Downhill 783
+Max altitude 1076, Min altitude 499
+Length 16262, Estimated time 350 min
+
+From Vradeto to Gamilla
+Uphill 1625, Downhill 505
+Max altitude 2496, Min altitude 1332
+Length 14864, Estimated time 391 min
+
+From Gamilla to Vradeto
+Uphill 505, Downhill 1625
+Max altitude 2496, Min altitude 1332
+Length 14864, Estimated time 279 min
+
+From Vrysoxori to Gamilla
+Uphill 1864, Downhill 409
+Max altitude 2496, Min altitude -237
+Length 12734, Estimated time 382 min
+
+From Gamilla to Vrysoxori
+Uphill 409, Downhill 1864
+Max altitude 2496, Min altitude -237
+Length 12734, Estimated time 237 min
+
+From Kapesovo to Vradeto
+Uphill 298, Downhill 150
+Max altitude 1332, Min altitude 1030
+Length 2516, Estimated time 69 min
+
+From Vradeto to Kapesovo
+Uphill 150, Downhill 298
+Max altitude 1332, Min altitude 1030
+Length 2516, Estimated time 54 min
+

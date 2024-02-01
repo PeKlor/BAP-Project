@@ -1,0 +1,90 @@
+From Skamneli to Konitsa
+Uphill 1412, Downhill 1942
+Max altitude 2294, Min altitude -237
+Length 23397, Estimated time 501 min
+
+From Konitsa to Skamneli
+Uphill 1942, Downhill 1412
+Max altitude 2294, Min altitude -237
+Length 23397, Estimated time 554 min
+
+From Skamneli to Vrysoxori
+Uphill 1396, Downhill 1630
+Max altitude 2311, Min altitude -237
+Length 17914, Estimated time 415 min
+
+From Vrysoxori to Skamneli
+Uphill 1630, Downhill 1396
+Max altitude 2311, Min altitude -237
+Length 17914, Estimated time 439 min
+
+From Monodendri to Megalo Papigo
+Uphill 783, Downhill 1001
+Max altitude 1076, Min altitude 499
+Length 16262, Estimated time 328 min
+
+From Megalo Papigo to Monodendri
+Uphill 1001, Downhill 783
+Max altitude 1076, Min altitude 499
+Length 16262, Estimated time 350 min
+
+From Palia Kleidonia to Palia Kleidonia
+Uphill 1053, Downhill 1053
+Max altitude 1453, Min altitude 866
+Length 14616, Estimated time 330 min
+
+From Limni Triadiou to Limni Triadiou
+Uphill 591, Downhill 591
+Max altitude 744, Min altitude 153
+Length 11100, Estimated time 230 min
+
+From Katafygio Astrakas to Gamilla II
+Uphill 891, Downhill 344
+Max altitude 2496, Min altitude 1774
+Length 6118, Estimated time 183 min
+
+From Gamilla II to Katafygio Astrakas
+Uphill 344, Downhill 891
+Max altitude 2496, Min altitude 1774
+Length 6118, Estimated time 129 min
+
+From Mikro Papigo to Katafygio Astrakas
+Uphill 989, Downhill 42
+Max altitude 1928, Min altitude 977
+Length 5919, Estimated time 190 min
+
+From Katafygio Astrakas to Mikro Papigo
+Uphill 42, Downhill 989
+Max altitude 1928, Min altitude 977
+Length 5919, Estimated time 95 min
+
+From Elati to Gefyri Agiou Mina
+Uphill 115, Downhill 83
+Max altitude 1002, Min altitude 777
+Length 3300, Estimated time 62 min
+
+From Gefyri Agiou Mina to Elati
+Uphill 83, Downhill 115
+Max altitude 1002, Min altitude 777
+Length 3300, Estimated time 59 min
+
+From Katafygio Astrakas to Drakolimni
+Uphill 295, Downhill 202
+Max altitude 2002, Min altitude 1745
+Length 2764, Estimated time 72 min
+
+From Drakolimni to Katafygio Astrakas
+Uphill 202, Downhill 295
+Max altitude 2002, Min altitude 1745
+Length 2764, Estimated time 63 min
+
+From Katafygio Astrakas to Astraka
+Uphill 394, Downhill 9
+Max altitude 2443, Min altitude 1919
+Length 1311, Estimated time 60 min
+
+From Astraka to Katafygio Astrakas
+Uphill 9, Downhill 394
+Max altitude 2443, Min altitude 1919
+Length 1311, Estimated time 21 min
+

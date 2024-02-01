@@ -1,0 +1,15 @@
+From Gefyri Agiou Mina to Elati
+Uphill 83, Downhill 115
+Max altitude 1002, Min altitude 777
+Length 3300, Estimated time 59 min
+
+From Katafygio Astrakas to Astraka
+Uphill 394, Downhill 9
+Max altitude 2443, Min altitude 1919
+Length 1311, Estimated time 60 min
+
+From Astraka to Katafygio Astrakas
+Uphill 9, Downhill 394
+Max altitude 2443, Min altitude 1919
+Length 1311, Estimated time 21 min
+

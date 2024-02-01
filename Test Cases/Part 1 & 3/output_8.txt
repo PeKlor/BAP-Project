@@ -1,0 +1,25 @@
+From Monodendri to Megalo Papigo
+Uphill 783, Downhill 1001
+Max altitude 1076, Min altitude 499
+Length 16262, Estimated time 328 min
+
+From Megalo Papigo to Monodendri
+Uphill 1001, Downhill 783
+Max altitude 1076, Min altitude 499
+Length 16262, Estimated time 350 min
+
+From Limni Triadiou to Limni Triadiou
+Uphill 591, Downhill 591
+Max altitude 744, Min altitude 153
+Length 11100, Estimated time 230 min
+
+From Elati to Gefyri Agiou Mina
+Uphill 115, Downhill 83
+Max altitude 1002, Min altitude 777
+Length 3300, Estimated time 62 min
+
+From Gefyri Agiou Mina to Elati
+Uphill 83, Downhill 115
+Max altitude 1002, Min altitude 777
+Length 3300, Estimated time 59 min
+
