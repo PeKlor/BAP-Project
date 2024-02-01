@@ -3,7 +3,7 @@ This project was implemented for the course "Basic Programming Principles", whil
 
 Project Grade: 10/10
 
-Final Course Grade: 8.9/10
+Course Final Grade: 8.9/10
 
 
 The code of this project is written fully in C programming language.
