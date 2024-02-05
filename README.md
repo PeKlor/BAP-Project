@@ -1,4 +1,4 @@
-# Basic Programming Principles Project 2021-2022
+# Basic Programming Principles Project
 This project was implemented for the course "Basic Programming Principles", while I was studying at Aristotle University of Thessaloniki.
 
 Project Grade: 10/10
